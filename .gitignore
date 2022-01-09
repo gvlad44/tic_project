@@ -1,0 +1,5 @@
+/Back-End/node_modules
+/Back-End/config/config.json
+/Back-End/config/keys.json
+/Back-End/package-lock.json
+/Front-End/tic-project/package-lock.json
